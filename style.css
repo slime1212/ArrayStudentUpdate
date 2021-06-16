@@ -1,0 +1,36 @@
+body {
+    text-align: center;
+    background-color: darkcyan;
+}
+
+input {
+    border-radius: 2px;
+    margin: 10px;
+}
+
+#submit {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#sort {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
+
+#CommaYes {
+    background-color: green;
+    padding: 10px;
+    border: 1px solid greenyellow;
+    border-radius: 10px;
+    width: 50%;
+}
+
+#CommaNo {
+    background-color: red;
+    padding: 10px;
+    border: 1px solid lightcoral;
+    border-radius: 10px;
+    width: 50%;
+}
